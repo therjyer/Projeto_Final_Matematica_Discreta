@@ -50,15 +50,26 @@ Certifique-se de ter o **Python 3** instalado em sua máquina. O projeto utiliza
 
 1. Clone o repositório ou baixe os arquivos:
 
-   git clone [Projeto Final - Matematica Discreta](https://github.com/therjyer/Projeto_Final_Matematica_Discreta)
-
 ```bash
-   cd Projeto_Final_Matematica_Discreta
+
+   git clone https://github.com/therjyer/Projeto_Final_Matematica_Discreta
+
 ```
 
-2. Execute o arquivo principal:
+2. Entre na pasta do projeto:
+
 ```bash
-python main.py
+
+   cd Projeto_Final_Matematica_Discreta
+
+```
+
+3. Execute o arquivo principal:
+
+```bash
+
+    python main.py
+
 ```
 
 
