@@ -38,7 +38,7 @@ O código foi organizado seguindo princípios de separação de responsabilidade
 | `config.py` | Constantes globais, configurações de cores (Tema Nord) e textos. |
 | `utils.py` | Utilitários matemáticos (`Vector2D`, `Lerp`, `Easing`) para a física da animação. |
 
-## 🚀 Como Rodar
+## Como Rodar
 
 ### Pré-requisitos
 Certifique-se de ter o **Python 3** instalado em sua máquina. O projeto utiliza apenas bibliotecas padrão do Python, então não é necessário instalar pacotes via `pip` (como pandas ou numpy).
