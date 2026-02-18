@@ -4,7 +4,7 @@ Um visualizador interativo e moderno para o clássico problema matemático da To
 
 ## Sobre o Projeto
 
-Este projeto não é apenas um solucionador algorítmico, mas uma aplicação completa que separa a lógica de negócios da renderização gráfica. Ele permite que o usuário configure o número de discos, ajuste a velocidade da animação e visualize o passo a passo da solução ótima.
+Este projeto permite que o usuário configure o número de discos, ajuste a velocidade da animação e visualize o passo a passo da solução ótima.
 
 ### Principais Funcionalidades
 
@@ -87,15 +87,3 @@ A interface utiliza a paleta de cores **Nord**:
 * Discos: Cores variadas (`#BF616A`, `#D08770`, `#EBCB8B`, etc.)
 
 ---
-
-Desenvolvido com Python.
-
-```
-
-### O que foi destacado na documentação:
-1.  **Separação Técnica:** Enfatizei que você separou a *Engine* da *UI*, o que mostra maturidade no código.
-2.  **Threading:** Mencionei o uso de threads para não travar a GUI (um problema comum em iniciantes).
-3.  **Matemática:** Destaquei o uso de `utils.py` para animações, pois isso diferencia seu projeto de simples "prints" no terminal.
-4.  **Estilo:** Mencionei o tema "Nord", já que as cores no seu `config.py` são claramente baseadas nessa paleta famosa.
-
-```
