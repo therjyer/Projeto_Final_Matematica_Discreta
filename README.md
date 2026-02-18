@@ -49,16 +49,16 @@ Certifique-se de ter o **Python 3** instalado em sua máquina. O projeto utiliza
 ### Executando
 
 1. Clone o repositório ou baixe os arquivos:
-```bash
-   git clone [https://github.com/therjyer/Projeto_Final_Matematica_Discreta](https://github.com/therjyer/Projeto_Final_Matematica_Discreta)
-   cd Projeto_Final_Matematica_Discreta
 
+   git clone [Projeto Final - Matematica Discreta](https://github.com/therjyer/Projeto_Final_Matematica_Discreta)
+
+```bash
+   cd Projeto_Final_Matematica_Discreta
 ```
 
 2. Execute o arquivo principal:
 ```bash
 python main.py
-
 ```
 
 
