@@ -37,6 +37,7 @@ O código foi organizado seguindo princípios de separação de responsabilidade
 | `ui_components.py` | Componentes visuais customizados (Botões modernos, Painéis arredondados). |
 | `config.py` | Constantes globais, configurações de cores (Tema Nord) e textos. |
 | `utils.py` | Utilitários matemáticos (`Vector2D`, `Lerp`, `Easing`) para a física da animação. |
+| `benchmark.py` | Script para análise de desempenho, rodando baterias de testes e gerando gráficos de complexidade de operações com `matplotlib`. |
 
 ## Como Rodar
 
